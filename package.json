@@ -1,7 +1,7 @@
 {
   "name": "wp-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A test project, in which use of HMR has not been implemented properly.",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -11,7 +11,7 @@
     "server": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zephilim",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4"
